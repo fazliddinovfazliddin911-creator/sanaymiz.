@@ -1,0 +1,2 @@
+# sanaymiz.
+“Sanaymiz math game”.
